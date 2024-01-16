@@ -1,9 +1,6 @@
 # project-ideas
 
 -Play around and try SCSS  
--Make spaceman mobile responsive  
 -Todo app. Multiple list types? Due dates which we can use to sort? Start with mobile size.  
--Recipe app: takes in ingredients and gives you idea  
--Chris's tree app  
+-Chris's tree app or similar mapping app to display in browser. Use mapbox?  
 -Sudoku  
--Triwizard style maze game with battles/mini games (using canvas)    
